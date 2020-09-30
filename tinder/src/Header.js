@@ -12,7 +12,7 @@ function Header() {
             </IconButton>
             <img className="header_logo" src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo-768x432.png" alt="Tinder_Icon" />
             <IconButton>
-                <MessageIcon />
+                <MessageIcon fontSize="large" className="header_icon" />
             </IconButton>
         </div>
         
